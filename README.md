@@ -31,4 +31,11 @@ Use PascalCase for Class,Interface,AbstractClass, Enum, Module names,Data types.
 Use camelCase variables and function names.
 Do not use "I" as a prefix for interface names.
 Do not use "_" as a prefix for private properties.
-Use whole words in names when possible.
+
+## Style
+
+Use arrow functions over anonymous function expressions.
+Only surround arrow function parameters when necessary. 
+Always surround loop and conditional bodies with curly braces.
+Open curly braces always go on the same line as whatever necessitates them.
+Parenthesized constructs should have no surrounding whitespace. 
